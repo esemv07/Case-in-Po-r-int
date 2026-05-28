@@ -50,3 +50,34 @@ I will later draw in more detailed sketches for each of the axes and minor syste
 
 I researched some of the parts I would need for the ‘toolhead’, although of course the extruder is separate as it’s a Bowden system. Here are the parts I found detailed below:
 
+| Part | Specific Name & Link | Image | Notes |
+|------|----------------------|-------|-------|
+| **_Extruder_** | [MK8 Aluminium Bowden Extruder](https://www.aliexpress.com/item/1005007542803374.htmlhttps://www.aliexpress.com/item/1005007542803374.html)<br>($6.09) | <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/79e44c5f-3de6-40b0-ae28-5e44867a63e3" /> | • High quality for a low a price <br>• Durable as it’s made from aluminium <br>• Low profile – good for space conservation <br>• Easy to assemble <br>• Compatible with versatile filament types – PLA, ABS, PETG, TPU |
+| **_Motor_** | [Nema 17 Stepper Motor: 17HS4401S XH2.54](https://www.aliexpress.com/item/1005011836286637.html)<br>($16.69) | <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/089e2a4f-b3e3-41cb-9281-f64d92a340ce" /> | •	Standard motor used for extrusion <br>• High accuracy – also enhanced by the extruder <br>• Good torque (40-59Ncm) for Bowden extrusion systems <br>• Larger with higher mass than NEMA 14, but necessary for Bowden system |
+| **_Teflon Tubing_** | [PTFE Transparent Tubing 2mm ID x 4mm OD](https://www.aliexpress.com/item/1005006242932887.html)<br>($2.93) | <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/168b58aa-311d-4476-b6c5-e5dd0aba0729" /> | •	2mm Inner Diameter by 4mm Outer Diameter <br>• Compatible with MK8 Bowden Extruder <br>• Transparent for easy troubleshooting |
+
+
+# 1st April 2026
+
+I am looking at the parts I will need for the different axes, mostly focusing on Z and X currently as I can look at the bed later.
+
+For the Z Axis here are the parts I’m looking at:
+
+| Part | Specific Name & Link | Image | Notes |
+|------|----------------------|-------|-------|
+| **_Motor_** | [Nema 17 Stepper Motor: 17HS4401S XH2.54](https://www.aliexpress.com/item/1005011836286637.html)<br>($16.69) | <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/089e2a4f-b3e3-41cb-9281-f64d92a340ce" /> | •	Standard motor used for extrusion <br>• High accuracy – also enhanced by the extruder <br>• Good torque (40-59Ncm) for Bowden extrusion systems |
+| **_Coupler_** | [NEMA 17 Motor - T8 Lead Screw 5x8x25mm Shaft Coupler](https://www.aliexpress.com/item/4000278519274.html)<br>($4.32 x 2) | <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/722826cc-0ba4-4c03-8409-7fc490be31f7" /> | • 5mm x 8mm for motor shaft and T8 lead screw <br>• Cheaper option than integrated lead screw |
+| **_Lead Screw_** | [T8 Lead Screw with Nut 300mm](https://www.aliexpress.com/item/1005008618305989.html)<br>($1.45 x 2) | <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/5404ac41-18b4-410d-9daa-cfc8532a8a95" /> | •	Length TBC once entire system is planned <br>•	T8 is standard size for Z Axis systems <br>• Removes need for linear rails and belt tensioning |
+| **_Linear Rods_** | | | • |
+| **_Linear Bearings_** | | <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/4f2559e5-3238-4fd0-8b22-f829e035cc62" /> | • |
+
+I did some sketches of the Z Axis to visualise ready to 3D model it in Fusion. I have tried to keep the size profile to a minimum so that it all fits well into the case. Here are the sketches:
+
+> [!NOTE]
+> Need to insert sketches
+
+<img align="right" width="296" height="250" alt="image" src="https://github.com/user-attachments/assets/8c4cdb3b-2a6f-4782-8a2a-7254bcdf01c5" />
+
+I have found this image very helpful in looking at the different axes motion systems. It mostly uses linear rods too, which is helpful in visualising how that can fit into my system. And it also helps me remember which is X and which is Y :expressionless:.
+
+I also did end up looking at some parts for the Y Axis just to make the dimensions a bit clearer for things like linear rods.
