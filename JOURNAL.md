@@ -35,3 +35,18 @@ I am going to go with a Bowden extruder, mainly due to the size constraints as h
 | **Flexible filaments** – due to the Teflon tubing, Bowden systems are not as suitable for flexible filament. | By finetuning settings such as retraction, printing speed, and ensuring the filament is properly dried, printing with flexible filaments can be achieved with a Bowden system. |
 | **Tube wearing** – repeated retraction can wear down the Teflon tubing, causing melted filament to ooze out of the system | This can be mitigating using a heat break as a buffer between the Teflon tubing and nozzle |
 | **Filament wastage** – due to the long tubing it is harder to use up all the filament within it causing wastage | This can be mitigating by making sure the Teflon tubing is as short as possible to reduce wastage, but cannot be completely avoided. |
+
+<img align="right" width="208" height="213" alt="image" src="https://github.com/user-attachments/assets/600e662d-b589-4f4f-8a33-ebb63c527db1" />
+
+I drew an initial concept sketch of the system, mostly focusing on the Z–Axis and X–Axis with general blocking of where the parts will go.
+
+I may end up using linear rods as they will be more space conservative, but I have currently just drawn them in as aluminium-extrusion-like blocks.
+
+I will later draw in more detailed sketches for each of the axes and minor systems to make them more clear and easier to CAD when I have decided on parts.
+
+
+<br><br>
+# 30th March 2026
+
+I researched some of the parts I would need for the ‘toolhead’, although of course the extruder is separate as it’s a Bowden system. Here are the parts I found detailed below:
+
