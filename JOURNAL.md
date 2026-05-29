@@ -5,6 +5,11 @@ description: "A 3D printer that fits inside and print out of a briefcase"
 created_at: "2026-03-24"
 ---
 
+#### Repository Link: [https://github.com/esemv07/Case-in-Po-r-int](https://github.com/esemv07/Case-in-Po-r-int)
+
+#### Total hours so far: 6 hours
+
+<br><br>
 # 24th March 2026
 
 ## Logo Designs
@@ -15,7 +20,14 @@ created_at: "2026-03-24"
 
 I have decided to go with the first design as it is easier to reproduce and gives equal attention to both the titles, so that the play on words is obvious, while the ‘Print’ is still obvious.
 
+`Logo Design: +30 mins`
 
+***+30 mins***
+
+### Time Spent on This Day: 30 mins
+`Logo Design: 30 mins`
+
+<br><br>
 # 28th March 2026
 There are two types of extrusion systems: Bowden and Direct Drive. In my printer I am leaning towards Bowden due to space constraints, and the fact that using Bowden means that I can embed the extruder itself into the side of the case without it taking up much excess space.
 
@@ -25,7 +37,14 @@ But here are some benefits and drawbacks for Bowden and Direct Drive extruders t
 | **_Bowden_** | • Weight reduction – lightweight meaning increased precision due to small inertia <br>• Print speeds – moving speed can reach up to 200~300mm/s for faster printing speeds <br>• Maintenance – separate nozzle and extruder give easier maintenance | • Stepper motor torque – resistance in the long Teflon tube requires a higher stepper motor torque <br>• Failure – due to the extruder and nozzle needing to be connected via a pneumatic connector and Teflon tube, as opposed to directly, there is a higher chance of failure <br>• Filament wastage – due to the long tubing it is harder to use up all the filament within it causing wastage |
 | **_Direct Drive_** | • Loading and retraction – more precise control of the loading and retraction of filament creating a better surface on 3D printed models <br>• Stepper motor torque – the torque requirement is relatively low <br>• Filament changing – it is easier to change filament <br>• Elastic filaments – it has a better performance for elastic filaments | • Maintenance – all the parts are directly connected making it more difficult to disassemble and maintain parts <br>• Weight – the toolhead is heavier meaning printing speeds are generally lower and Bowden extruders |
 
+`Research: +1 hour`
 
+***+1 hour***
+
+### Time Spent on This Day: 1 hour
+`Research: 1 hour`
+
+<br><br>
 # 29th March 2026
 
 I am going to go with a Bowden extruder, mainly due to the size constraints as having the extruder separate will help greatly with that so that I can embed it into the case. The disadvantages above are weighable considering the size constraints, but there are some further variable drawbacks that can be mitigated. Here’s how I’ll handle the main drawbacks of the having a Bowden system:
@@ -36,6 +55,10 @@ I am going to go with a Bowden extruder, mainly due to the size constraints as h
 | **Tube wearing** – repeated retraction can wear down the Teflon tubing, causing melted filament to ooze out of the system | This can be mitigating using a heat break as a buffer between the Teflon tubing and nozzle |
 | **Filament wastage** – due to the long tubing it is harder to use up all the filament within it causing wastage | This can be mitigating by making sure the Teflon tubing is as short as possible to reduce wastage, but cannot be completely avoided. |
 
+`Research: +1 hour`
+
+***+1 hour***
+
 <img align="right" width="208" height="213" alt="image" src="https://github.com/user-attachments/assets/600e662d-b589-4f4f-8a33-ebb63c527db1" />
 
 I drew an initial concept sketch of the system, mostly focusing on the Z–Axis and X–Axis with general blocking of where the parts will go.
@@ -44,6 +67,12 @@ I may end up using linear rods as they will be more space conservative, but I ha
 
 I will later draw in more detailed sketches for each of the axes and minor systems to make them more clear and easier to CAD when I have decided on parts.
 
+`Sketches: +30 mins`
+
+***+30 mins***
+
+### Time Spent on This Day: 1 hour 30 mins
+`Research: 1 hour` `Sketches: 30 mins`
 
 <br><br>
 # 30th March 2026
@@ -56,7 +85,14 @@ I researched some of the parts I would need for the ‘toolhead’, although of 
 | **_Motor_** | [Nema 17 Stepper Motor: 17HS4401S XH2.54](https://www.aliexpress.com/item/1005011836286637.html)<br>($16.69) | <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/089e2a4f-b3e3-41cb-9281-f64d92a340ce" /> | •	Standard motor used for extrusion <br>• High accuracy – also enhanced by the extruder <br>• Good torque (40-59Ncm) for Bowden extrusion systems <br>• Larger with higher mass than NEMA 14, but necessary for Bowden system |
 | **_Teflon Tubing_** | [PTFE Transparent Tubing 2mm ID x 4mm OD](https://www.aliexpress.com/item/1005006242932887.html)<br>($2.93) | <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/168b58aa-311d-4476-b6c5-e5dd0aba0729" /> | •	2mm Inner Diameter by 4mm Outer Diameter <br>• Compatible with MK8 Bowden Extruder <br>• Transparent for easy troubleshooting |
 
+`Research: +1 hour`
 
+***+1 hour***
+
+### Time Spent on This Day: 1 hour
+`Research: 1 hour`
+
+<br><br>
 # 1st April 2026
 
 I am looking at the parts I will need for the different axes, mostly focusing on Z and X currently as I can look at the bed later.
@@ -71,6 +107,10 @@ For the Z Axis here are the parts I’m looking at:
 | **_Linear Rods_** | | | • |
 | **_Linear Bearings_** | | <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/4f2559e5-3238-4fd0-8b22-f829e035cc62" /> | • |
 
+`Research: +1 hour`
+
+***+1 hour***
+
 I did some sketches of the Z Axis to visualise ready to 3D model it in Fusion. I have tried to keep the size profile to a minimum so that it all fits well into the case. Here are the sketches:
 
 > [!NOTE]
@@ -81,3 +121,12 @@ I did some sketches of the Z Axis to visualise ready to 3D model it in Fusion. I
 I have found this image very helpful in looking at the different axes motion systems. It mostly uses linear rods too, which is helpful in visualising how that can fit into my system. And it also helps me remember which is X and which is Y :expressionless:.
 
 I also did end up looking at some parts for the Y Axis just to make the dimensions a bit clearer for things like linear rods.
+
+`Sketches: +1 hour`
+
+***+1 hour***
+
+### Time Spent on This Day: 2 hours
+`Sketches: 1 hour` `Research: 1 hour`
+
+<br><br>
